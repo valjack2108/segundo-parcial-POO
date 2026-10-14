@@ -8,8 +8,9 @@ package Modelo;
  *
  * @author Usuario
  */
+
 public class contacto {
-    
+
     private String nombre;
     private String telefono;
 
@@ -36,5 +37,4 @@ public class contacto {
     public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
-    
 }
